@@ -88,10 +88,10 @@ Estou ativamente estudando e aplicando meus conhecimentos para iniciar projetos 
 <h3>🎮 Hobbies & Interesses</h3>
 
 
-- ![Reading](https://img.shields.io/badge/📚%20Reading-8A2BE2?style=for-the-badge)  
-- ![Gaming](https://img.shields.io/badge/🎮%20Gaming%20on%20Steam-000000?style=for-the-badge&logo=steam&logoColor=white)  
-- ![Movies](https://img.shields.io/badge/🎥%20Watching%20Movies%20&%20Series-FF4500?style=for-the-badge)
-- ![Music](https://img.shields.io/badge/🎧%20Música%20-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+- ![Reading](https://img.shields.io/badge/📚%20Reading-6A5ACD?style=for-the-badge)  
+- ![Gaming](https://img.shields.io/badge/🎮%20Gaming%20on%20Steam-4169E1?style=for-the-badge&logo=steam&logoColor=white)  
+- ![Movies](https://img.shields.io/badge/🎥%20Watching%20Movies%20&%20Series-5b9cf7?style=for-the-badge)
+- ![Music](https://img.shields.io/badge/🎧%20Música%20-6A5ACD?style=for-the-badge&logo=spotify&logoColor=white)
 
 ---
 <h3>📣 Vamos nos Conectar!</h3>
@@ -104,9 +104,10 @@ Estou aberto a novas conexões e oportunidades para aplicar e expandir minhas ha
 *Para contato profissional, favor utilizar as redes abaixo. Meu e-mail é **gmluna507@gmail.com***.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gmluna507@gmail.com) <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-luna-143811364/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-luna-143811364/)<br>
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511995554412)
 
-[![Baixar CV](https://img.shields.io/badge/Baixar%20Currículo%20(PDF)-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/gustavoluna-dev/gustavoluna-dev/blob/main/Curriculum%20Gustavo.pdf)
+[![Baixar CV](https://img.shields.io/badge/Baixar%20Currículo%20(PDF)-191970?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/gustavoluna-dev/gustavoluna-dev/blob/main/Curriculum%20Gustavo.pdf)
 
 ---
 
