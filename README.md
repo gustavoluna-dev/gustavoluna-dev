@@ -90,7 +90,8 @@ Estou ativamente estudando e aplicando meus conhecimentos para iniciar projetos 
 
 - ![Reading](https://img.shields.io/badge/📚%20Reading-8A2BE2?style=for-the-badge)  
 - ![Gaming](https://img.shields.io/badge/🎮%20Gaming%20on%20Steam-000000?style=for-the-badge&logo=steam&logoColor=white)  
-- ![Movies](https://img.shields.io/badge/🎥%20Watching%20Movies%20&%20Series-FF4500?style=for-the-badge)  
+- ![Movies](https://img.shields.io/badge/🎥%20Watching%20Movies%20&%20Series-FF4500?style=for-the-badge)
+- ![Music](https://img.shields.io/badge/🎧%20Música%20-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
 
 ---
 <h3>📣 Vamos nos Conectar!</h3>
