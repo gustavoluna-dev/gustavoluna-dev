@@ -1,14 +1,11 @@
 <div align="center">
-  <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
   
-  <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-  
-  <h1>Hello World 👋</h1>
+  <h1>Oi meu nome é Gustavo Luna 👋</h1>
 </div>
 
 <p align="center">
-  <b>Gustavo Martins Luna</b> <br>
-  Estudante de Mecatrônica e Análise e Desenvolvimento de Sistemas
+  <b>Técnico em Mecatrônica e Analista de Sistemas em formação.</b> <br>
+  Busco aplicar a lógica de desenvolvimento e automação para otimizar processos (Administrativo/Operacional), transformando curiosidade em ferramentas digitais úteis.
 </p>
 
 ---
@@ -19,19 +16,19 @@
 
 ---
 
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHloMmd2Y2M1OHAwdmYxYTY2b3N1OXprcDFvcm84bDFianhsdzdwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfYWQmY3Q9Zw/VFHa3Kg39gFLVbinN1/giphy.gif" width="300" alt="Pixel Art Cafeteria"/>
-</div>
 
-## 🎯 Objetivo
-Busco integrar as competências de **Mecatrônica** e **Análise e Desenvolvimento de Sistemas** para atuar em funções **Técnicas** ou **Administrativas**, com foco em **otimização de processos, automação de tarefas e melhoria contínua da produtividade**.
+  <img align="right" src="https://github.com/gustavoluna-dev/gustavoluna-dev/blob/main/lofi.gif" width="300" alt="Pixel Art Cafeteria"/>
+  <br></br>
 
----
 
-## 🏫 Formação Acadêmica
-- 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** – IFSP Bragança Paulista *(Cursando – Previsão 2028)* <br>
-- 🤖 **Técnico em Mecatrônica** – IFSP Bragança Paulista *(Completo – 2022 – 2024)* <br>
-- 🏫 **Ensino Médio Completo** – Colégio Adventista de Bragança Paulista *(2023)*
+<h3>🎯 Objetivo</h3>
+<p>Busco integrar as competências de <strong>Mecatrônica</strong> e <strong>Análise e Desenvolvimento de Sistemas</strong> para atuar em funções <strong>Técnicas</strong> ou <strong>Administrativas</strong>, com foco em <strong>otimização de processos, automação de tarefas e melhoria contínua da produtividade</strong>.</p>
+
+
+<h3>🏫 Formação Acadêmica</h3>
+- 🎓 <strong>Tecnólogo em Análise e Desenvolvimento de Sistemas</strong> – IFSP Bragança Paulista (Cursando – Previsão 2028) <br>
+- 🤖 <strong>Técnico em Mecatrônica</strong> – IFSP Bragança Paulista (Completo – 2022 – 2024) <br>
+- 🏫 <strong>Ensino Médio Completo</strong> – Colégio Adventista de Bragança Paulista (2023)
 
 ---
 
@@ -87,14 +84,16 @@ Estou ativamente estudando e aplicando meus conhecimentos para iniciar projetos 
 - **Tecnologia da Informação e Comunicação** – SENAI *(Concluído – 2022)*
 
 ---
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHloMmd2Y2M1OHAwdmYxYTY2b3N1OXprcDFvcm84bDFianhsdzdwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfYWQmY3Q9Zw/VFHa3Kg39gFLVbinN1/giphy.gif" width="300" alt="Pixel Art Cafeteria"/>
+<h3>🎮 Hobbies & Interesses</h3>
 
-## 🎮 Hobbies & Interesses
+
 - ![Reading](https://img.shields.io/badge/📚%20Reading-8A2BE2?style=for-the-badge)  
 - ![Gaming](https://img.shields.io/badge/🎮%20Gaming%20on%20Steam-000000?style=for-the-badge&logo=steam&logoColor=white)  
 - ![Movies](https://img.shields.io/badge/🎥%20Watching%20Movies%20&%20Series-FF4500?style=for-the-badge)  
 
 ---
-## 📣 Vamos nos Conectar!
+<h3>📣 Vamos nos Conectar!</h3>
 
 Estou aberto a novas conexões e oportunidades para aplicar e expandir minhas habilidades em Mecatrônica e Desenvolvimento. Sinta-se à vontade para me enviar uma mensagem ou proposta de colaboração!
 
