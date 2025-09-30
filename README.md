@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>Oi meu nome é Gustavo Luna 👋</h1>
+  <h1>Oi, meu nome é<br> Gustavo Luna 👋</h1>
 </div>
 
 <p align="center">
