@@ -17,6 +17,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gustavoluna-dev&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub do Gustavo"/>
 </div>
 
+---
+
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHloMmd2Y2M1OHAwdmYxYTY2b3N1OXprcDFvcm84bDFianhsdzdwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfYWQmY3Q9Zw/VFHa3Kg39gFLVbinN1/giphy.gif" width="300" alt="Pixel Art Cafeteria"/>
+</div>
+
 ## 🎯 Objetivo
 Busco integrar as competências de **Mecatrônica** e **Análise e Desenvolvimento de Sistemas** para atuar em funções **Técnicas** ou **Administrativas**, com foco em **otimização de processos, automação de tarefas e melhoria contínua da produtividade**.
 
@@ -86,6 +92,11 @@ Estou ativamente estudando e aplicando meus conhecimentos para iniciar projetos 
 - ![Reading](https://img.shields.io/badge/📚%20Reading-8A2BE2?style=for-the-badge)  
 - ![Gaming](https://img.shields.io/badge/🎮%20Gaming%20on%20Steam-000000?style=for-the-badge&logo=steam&logoColor=white)  
 - ![Movies](https://img.shields.io/badge/🎥%20Watching%20Movies%20&%20Series-FF4500?style=for-the-badge)  
+
+---
+## 📣 Vamos nos Conectar!
+
+Estou aberto a novas conexões e oportunidades para aplicar e expandir minhas habilidades em Mecatrônica e Desenvolvimento. Sinta-se à vontade para me enviar uma mensagem ou proposta de colaboração!
 
 ---
 
