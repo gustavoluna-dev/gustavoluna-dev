@@ -93,7 +93,9 @@ Estou ativamente estudando e aplicando meus conhecimentos para iniciar projetos 
 *Para contato profissional, favor utilizar as redes abaixo. Meu e-mail é **gmluna507@gmail.com***.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gmluna507@gmail.com) <br>
-[![LinkedIn](https://img.shields.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-luna-143811364/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-luna-143811364/)
+
+[![Baixar CV](https://img.shields.io/badge/Baixar%20Currículo%20(PDF)-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/gustavoluna-dev/gustavoluna-dev/blob/main/Curriculum%20Gustavo.pdf)
 
 ---
 
