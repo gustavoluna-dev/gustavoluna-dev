@@ -64,7 +64,7 @@
 
 **Para Contato Profissional e Oportunidades, visite meu Portfólio Dedicado:**
 
-[![Portfólio Profissional](https://img.shields.io/badge/Portfólio%20Completo-191970?style=for-the-badge&logo=vercel&logoColor=white)](https://gustavoluna-dev.github.io/portifolio/)
+[![Portfólio Profissional](https://img.shields.io/badge/Portfólio%20Completo-191970?style=for-the-badge&logo=vercel&logoColor=white)](https://gustavoluna-dev.github.io/)
 
 ---
 
